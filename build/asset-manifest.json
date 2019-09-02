@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/summerProject/static/css/main.5d08eca8.chunk.css",
+    "main.js": "/summerProject/static/js/main.9b5db776.chunk.js",
+    "main.js.map": "/summerProject/static/js/main.9b5db776.chunk.js.map",
+    "runtime~main.js": "/summerProject/static/js/runtime~main.698ed8d8.js",
+    "runtime~main.js.map": "/summerProject/static/js/runtime~main.698ed8d8.js.map",
+    "static/js/2.72989bec.chunk.js": "/summerProject/static/js/2.72989bec.chunk.js",
+    "static/js/2.72989bec.chunk.js.map": "/summerProject/static/js/2.72989bec.chunk.js.map",
+    "index.html": "/summerProject/index.html",
+    "precache-manifest.82d7452bd6b0d893ad927a4136500c93.js": "/summerProject/precache-manifest.82d7452bd6b0d893ad927a4136500c93.js",
+    "service-worker.js": "/summerProject/service-worker.js",
+    "static/css/main.5d08eca8.chunk.css.map": "/summerProject/static/css/main.5d08eca8.chunk.css.map"
+  }
+}
